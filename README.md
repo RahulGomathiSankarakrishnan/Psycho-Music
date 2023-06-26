@@ -1,1 +1,1 @@
-# Data-Visualization
+### The goal of Psychomusic is to examine and depict how music influences feelings and actions in people. There are moments when hearing a song makes you joyful and excited. Other times, it makes you nostalgic or melancholy because you remember certain things. These abrupt shifts in human feeling are linked to musical qualities. The listener's emotions are influenced by a song's frequency, volume, tones, tempo, genre, and instrumentation. This study will analyze and explore numerous musical and emotional trends through the use of various visualizations.
